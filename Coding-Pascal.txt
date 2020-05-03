@@ -1,0 +1,5 @@
+Koding Pascal
+- For
+- For Loop (Nested Loop)
+- Do While
+- Repeat Until
