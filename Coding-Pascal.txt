@@ -3,4 +3,5 @@ Koding Pascal
 - For Loop (Nested Loop)
 - Do While
 - Repeat Until
-- Tugas UTS
+- Tugas UTS 2
+- Tugas UTS 3
